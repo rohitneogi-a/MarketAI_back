@@ -103,7 +103,7 @@ nest-asyncio==1.6.0
 nltk==3.9.1
 notebook==7.2.2
 notebook_shim==0.2.4
-numpy==1.26.4
+numpy>=1.22.0,<1.27.0
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
@@ -133,7 +133,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.2
-pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
