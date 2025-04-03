@@ -1,5 +1,5 @@
 # Add this at the top to prefer binary wheels
---only-binary :all:
+--only-binary :all: --no-binary pandas_ta
 
 # Rest of your requirements
 aiohappyeyeballs==2.4.6
