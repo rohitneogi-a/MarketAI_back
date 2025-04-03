@@ -13,5 +13,3 @@ pip install -r requirements.txt
 REM Run the Django command-line utility
 python manage.py runserver
 
-REM Deactivate the virtual environment when done
-deactivate
