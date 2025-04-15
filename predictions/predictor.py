@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import datetime
 
 
-def predict(ticker, start_date="2020-01-01", end_date="2025-03-17"):
+def predict(ticker, start_date="2020-01-01", end_date="2025-04-15"):
     # Set the end date to the current date if it's not provided
     end = datetime.datetime.now().date()
 
